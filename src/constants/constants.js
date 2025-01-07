@@ -6,7 +6,7 @@ export const refs = {
   endWarningText: document.querySelector('.end-warning'),
 };
 
-export const PX_API_KEY = '46619732-3197f14e6c8435a9c5454ac04';
+export const PX_API_KEY = '47934856-127240b78ee1c1893a576f39c';
 
 export const STORAGE_KEY = 'query';
 
